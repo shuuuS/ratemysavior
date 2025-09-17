@@ -1,1 +1,1 @@
-# The build generator for some RPGs
+# Website about everything from Tree of Savior
